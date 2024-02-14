@@ -16,7 +16,9 @@ body {
   font-weight: 400;
   height: 100vh;
   color: #333;
-  background-image: linear-gradient(to top left, #3f3f3f 0%, #724c4d 100%);
+  background-image: url("./cube-1655118_1920.jpg");
+  background-size: cover;
+  background-position: center;
   display: flex;
   align-items: center;
   justify-content: center;
